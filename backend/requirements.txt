@@ -1,0 +1,9 @@
+# Backend dependencies
+flask>=3.0
+flask-cors>=4.0
+pymongo[srv]>=4.6
+PyJWT>=2.8
+bcrypt>=4.1
+python-dotenv>=1.0
+opencv-python>=4.8
+numpy>=1.24
